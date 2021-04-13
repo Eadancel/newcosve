@@ -1,11 +1,11 @@
 [
     {
-        "name": "Home",
+        "name": "Inicio",
         "url": "/",
         "weight": 1
     },
     {
-        "name": "Contact",
+        "name": "Contacto",
         "url": "/contact/",
         "weight": 2
     }

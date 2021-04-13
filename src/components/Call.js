@@ -8,6 +8,7 @@ const Call = props => {
           phone
           email
           contact_button_link
+          contact_button_text
         }
     }
    `);
@@ -33,7 +34,7 @@ const Call = props => {
       </div>
       {props.showButton && (
         <div className="call-box-bottom">
-          <a href={data.contactJson.contact_button_link} className="button">Contact</a>
+          <a href={data.contactJson.contact_button_link} className="button">{data.contactJson.contact_button_text}</a>
         </div>
       )}
     </div>

@@ -57,7 +57,7 @@ const Home = props => {
             </div>
             <div className="row justify-content-center">
               <div className="col-auto">
-                <Link className="button button-primary" to="/services/">View All Services</Link>
+                <Link className="button button-primary" to="/services/">Ver Todos los servicios</Link>
               </div>
             </div>
           </div>

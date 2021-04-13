@@ -5,6 +5,6 @@ intro_image_absolute: true
 intro_image_hide_on_mobile: true
 ---
 
-# Serif - A Hugo Business Theme.
+# Consultoría Vehicular.
 
-Serif contains content types for a typical business website. The theme is fully responsive, blazing fast and artfully illustrated.
+NewCOSVE nace para realizar estudios estratégicos sobre emisiones de gases contaminantes vehiculares para aportar en la descontaminación ambiental local.
