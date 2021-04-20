@@ -5,13 +5,6 @@ featured: true
 weight: 1
 ---
 
-Validación de proyectos automotrices,
+Validación de proyectos automotrices o de vehículos que pretendan comercializarse en el país o en el extranjero, Pruebas locales en carreteras y caminos del país a nivel del mar o condiciones geográficas adversas, tales como altitudes sobre 4000m con temperaturas entre - 5° a 35 °C, y en diferentes tipos de terrenos (pavimento; gravilla; tierra, otros) como también diferentes tipos de pendientes.
 
 ![Validacion](/images/car_check.jpeg)
-
-# Principales Actividades 
-
-- Validación de proyectos automotrices, con pruebas locales, a las condiciones climáticas y
-geográficas del país.
-- Validación local de convertidores catalíticos.
-- Validación de filtros de partículas DPF en vehículos con motor diésel.

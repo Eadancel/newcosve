@@ -1,6 +1,6 @@
 ---
 title: 'Home'
-intro_image: "/images/illustrations/pointing.svg"
+intro_image: "images/Santiago_de_Chile,_Desde_Cerro_San_Cristóbal.jpg"
 intro_image_absolute: true
 intro_image_hide_on_mobile: true
 ---

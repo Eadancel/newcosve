@@ -5,10 +5,8 @@ featured: true
 weight: 1
 ---
 
-Capacitación Técnica en control de emisiones y eficiencia energética automotriz.
+En el área de empresas: capacitación en redes de concesionarios en el área de asistencia técnica y ventas de automóviles camioneta y camiones 
+En el área de educación: capacitación automotriz para diversos institutos técnicos profesionales y Liceos Industriales.
+
 
 ![Capacitacion](/images/neonbrand-1-aA2Fadydc-unsplash.jpeg)
-
-# Principales Actividades 
-
-- Capacitación Técnica en control de emisiones y eficiencia energética automotriz.
