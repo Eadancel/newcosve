@@ -1,5 +1,5 @@
 import React from 'react';
-import { graphql } from 'gatsby';
+import {Link, graphql } from 'gatsby';
 import SEO from '../components/SEO';
 import Layout from '../components/Layout';
 import Call from '../components/Call';
@@ -11,7 +11,7 @@ const Team = props => {
 
   return (
     <Layout bodyClass="page-teams">
-      <SEO title="Team" />
+      <SEO title="Equipo" />
 
       <div className="intro">
         <div className="container">
@@ -39,7 +39,7 @@ const Team = props => {
                   </div>
                 )}
                 <div className="team-meta">
-                  <h2 className="team-name">{node.frontmatter.title}</h2>
+                <Link to={node.fields.slug}><h2 className="team-name">{node.frontmatter.title}</h2></Link>
                   <p className="team-description">{node.frontmatter.jobtitle}</p>
                   {node.frontmatter.linkedin && (
                     <a target="_blank" href="{{ .Params.Linkedinurl }}">LinkedIn</a>
@@ -82,12 +82,12 @@ export const query = graphql`
   query TeamQuery {
     team: allMarkdownRemark(
       filter: { fileAbsolutePath: { regex: "/team\/.*/" } }
-      sort: { fields: [frontmatter___date], order: DESC }
+      sort: { fields: [frontmatter___weight], order: ASC }
     ) {
       edges {
         node {
           id
-          excerpt
+          excerpt(pruneLength: 500)
           fields {
             slug
           }
@@ -98,6 +98,7 @@ export const query = graphql`
             jobtitle
             linkedinurl
           }
+          html
         }
       }
     }

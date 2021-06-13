@@ -1,12 +1,12 @@
 [
     {
-        "name": "Servicios",
-        "url": "/services/",
+        "name": "Equipo",
+        "url": "/team/",
         "weight": 2
     },
     {
-        "name": "Equipo",
-        "url": "/team/",
+        "name": "Actividades",
+        "url": "/services/",
         "weight": 3
     },
     {

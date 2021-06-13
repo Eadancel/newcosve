@@ -10,7 +10,7 @@ const Services = props => {
 
   return (
     <Layout bodyClass="page-services">
-      <SEO title="Services" />
+      <SEO title="Actividades" />
 
       <div className="intro">
         <div className="container">
