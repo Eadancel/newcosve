@@ -5,5 +5,10 @@ featured: true
 weight: 7
 ---
 
-En el sector de empresas automotrices: capacitación en redes de concesionarios en el área de asistencia técnica y ventas de automóviles camioneta y camiones 
-En el sector público y Educación superior: capacitación automotriz para Institutos Técnicos profesionales y Liceos Industriales.
+En el sector de empresas automotrices:
+
+Capacitación en redes de concesionarios en el área de asistencia técnica y ventas de vehículos.
+
+En el sector público y Educación superior:
+
+Capacitación automotriz para Institutos Técnicos profesionales y Liceos Industriales.
